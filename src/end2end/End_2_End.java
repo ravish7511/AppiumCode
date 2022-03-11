@@ -58,4 +58,9 @@ public class End_2_End {
 		driver.findElementByXPath("//a").click();
 
 	}
+	
+	@Test
+	public void start() {
+		System.out.println("hello");
+	}
 }
